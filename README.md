@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="mailto:keertana246@gmail.com">📧 keertana246@gmail.com</a> |
-  <a href="<replace-with-linkedin-url>" target="_blank">LinkedIn</a> |
-  <a href="https://github.com/<replace-with-github-username>" target="_blank">GitHub</a>
+  <a href="https://www.linkedin.com/in/keertana-k-s-b7142a2a1/" target="_blank">LinkedIn</a> |
+  <a href="https://github.com/kskeertana" target="_blank">GitHub</a>
 </p>
 
 ---
